@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="3" failed="0" skipped="4">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2017-12-13T19:22:39Z" name="Default suite" finished-at="2017-12-13T19:23:11Z" duration-ms="31334">
+    <groups>
+    </groups>
+    <test started-at="2017-12-13T19:22:39Z" name="Default test" finished-at="2017-12-13T19:23:11Z" duration-ms="31334">
+      <class name="com.test.Automation.Automation.homePage.LoginInvalid">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:52:39Z" name="setup" finished-at="2017-12-14T00:52:57Z" duration-ms="18145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:52:58Z" name="beforeMethod" finished-at="2017-12-14T00:52:58Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:52:58Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:03Z" duration-ms="4430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:03Z" name="afterMethod" finished-at="2017-12-14T00:53:03Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SUCCESS method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output=<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_02.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:03Z" name="beforeMethod" finished-at="2017-12-14T00:53:03Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:03Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:06Z" duration-ms="3647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="afterMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SUCCESS method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output=<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_06.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="beforeMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:06Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Not to be in run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Not to be in runat com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(LoginInvalid.java:41)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.base/java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="afterMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SKIP method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="beforeMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:06Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Not to be in run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Not to be in runat com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(LoginInvalid.java:41)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.base/java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="afterMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SKIP method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="beforeMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:06Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Not to be in run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Not to be in runat com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(LoginInvalid.java:41)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.base/java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="afterMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SKIP method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="beforeMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:06Z" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Not to be in run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Not to be in runat com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(LoginInvalid.java:41)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.base/java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="afterMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SKIP method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="beforeMethod" finished-at="2017-12-14T00:53:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.Automation.homePage.LoginInvalid.verifyLogin(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:06Z" name="verifyLogin" data-provider="loginData" finished-at="2017-12-14T00:53:10Z" duration-ms="3756" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:10Z" name="afterMethod" finished-at="2017-12-14T00:53:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SUCCESS method=LoginInvalid.verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be] output=<a href='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png'> <img src='C:\Users\Palash Dharwa\eclipse-workspace1\Automation\src\main\java\com\test\Automation\Automation\screenShot\testLogin.automation@gmail.com_14_12_2017_12_53_10.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.Automation.Automation.homePage.LoginInvalid@346d61be]" started-at="2017-12-14T00:53:10Z" name="endTest" finished-at="2017-12-14T00:53:11Z" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.Automation.Automation.homePage.LoginInvalid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
